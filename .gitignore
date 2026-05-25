@@ -4,8 +4,12 @@
 *.bck
 *.kicad_pcb-bak
 *~
+~*
 _autosave-*
 *.tmp
+
+# History
+.history/
 
 # Autorouter files
 .dsn
