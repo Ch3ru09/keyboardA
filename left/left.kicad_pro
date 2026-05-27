@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboardA.kicad_pro",
+    "filename": "left.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,18 +643,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "keyboardA.kicad_sch",
-        "name": "Root",
+        "filename": "left.kicad_sch",
+        "name": "left",
         "uuid": "dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e"
       }
     ],
-    "used_designators": "#PWR15,#PWR20-21,J2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e",
-      "Root"
+      "left"
     ],
     [
       "6af49d3b-c724-4e5b-a916-88a90f1abb4c",

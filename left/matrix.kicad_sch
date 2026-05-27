@@ -359,158 +359,158 @@
 		)
 	)
 	(junction
-		(at 128.27 100.33)
+		(at 173.99 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "017e4ae8-1c1b-4d33-9b8e-27a3d8c43e39")
 	)
 	(junction
-		(at 128.27 123.19)
+		(at 173.99 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "03566fa5-015d-4c56-848a-90ee493cb653")
 	)
 	(junction
-		(at 173.99 69.85)
+		(at 128.27 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ecd2809-106c-4621-96aa-ff9211466b38")
 	)
 	(junction
-		(at 173.99 92.71)
+		(at 128.27 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "216b74a2-27af-4bf4-8877-b105f4677d46")
 	)
 	(junction
-		(at 96.52 123.19)
+		(at 205.74 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d17d797-c262-4af3-972c-58e06b1899cf")
 	)
 	(junction
-		(at 110.49 92.71)
+		(at 191.77 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c567385-4211-49b2-9190-90d73c3c7049")
 	)
 	(junction
-		(at 110.49 115.57)
+		(at 191.77 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "547f0f32-2855-43b3-9978-88ffb1e74c2e")
 	)
 	(junction
-		(at 160.02 100.33)
+		(at 142.24 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "555cdf81-0352-4504-ae3d-47d53d6c1cbc")
 	)
 	(junction
-		(at 160.02 123.19)
+		(at 142.24 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58583a72-2ace-4023-b398-a1ce4d98199d")
 	)
 	(junction
-		(at 96.52 77.47)
+		(at 205.74 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bb75e98-9a14-4304-9098-31e1257c8bc6")
 	)
 	(junction
-		(at 205.74 92.71)
+		(at 96.52 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7cf438e2-96b5-418b-9004-a9a3c6d860f8")
 	)
 	(junction
-		(at 78.74 115.57)
+		(at 223.52 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87010024-81fb-4031-90f7-a8b80e43aa69")
 	)
 	(junction
-		(at 142.24 92.71)
+		(at 160.02 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8bba81bc-4219-4bf0-8f14-213aa677ab27")
 	)
 	(junction
-		(at 78.74 69.85)
+		(at 223.52 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8befd481-0315-454f-9fac-35113f4244c3")
 	)
 	(junction
-		(at 191.77 100.33)
+		(at 110.49 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ad8fcfd-f432-4236-9f39-e30fd75f0182")
 	)
 	(junction
-		(at 96.52 146.05)
+		(at 205.74 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aa4cefd9-0ecf-4c20-9b8d-7e0d97887f10")
 	)
 	(junction
-		(at 78.74 92.71)
+		(at 223.52 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b183f4ed-7b3d-4b6d-99cb-be927e76ecaa")
 	)
 	(junction
-		(at 205.74 69.85)
+		(at 96.52 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3deadf1-4eb4-44ac-8b87-bf8ccf74abd9")
 	)
 	(junction
-		(at 160.02 77.47)
+		(at 142.24 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4d36f8d-b815-407c-bfc3-e5181b737dea")
 	)
 	(junction
-		(at 191.77 123.19)
+		(at 110.49 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d30fcf4b-85e4-430e-b876-f2105b7a37ba")
 	)
 	(junction
-		(at 110.49 69.85)
+		(at 191.77 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3b7d761-6ec6-44df-b24e-c936b5f27fab")
 	)
 	(junction
-		(at 191.77 77.47)
+		(at 110.49 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d582fcc1-081d-45bd-bcb3-03b27b24d89e")
 	)
 	(junction
-		(at 142.24 69.85)
+		(at 160.02 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d8c02885-774e-4825-a955-e4ea1fe8378a")
 	)
 	(junction
-		(at 96.52 100.33)
+		(at 205.74 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e86cf142-993f-4504-b46a-cd7b4580f3da")
 	)
 	(junction
-		(at 128.27 77.47)
+		(at 173.99 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f04dc54f-82a5-4b31-8198-2809f65d5f34")
 	)
 	(wire
 		(pts
-			(xy 110.49 115.57) (xy 114.3 115.57)
+			(xy 191.77 115.57) (xy 187.96 115.57)
 		)
 		(stroke
 			(width 0)
@@ -520,7 +520,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 123.19) (xy 160.02 123.19)
+			(xy 173.99 123.19) (xy 142.24 123.19)
 		)
 		(stroke
 			(width 0)
@@ -530,7 +530,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 92.71) (xy 110.49 115.57)
+			(xy 191.77 92.71) (xy 191.77 115.57)
 		)
 		(stroke
 			(width 0)
@@ -540,7 +540,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 69.85) (xy 114.3 69.85)
+			(xy 191.77 69.85) (xy 187.96 69.85)
 		)
 		(stroke
 			(width 0)
@@ -550,7 +550,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 123.19) (xy 128.27 123.19)
+			(xy 205.74 123.19) (xy 173.99 123.19)
 		)
 		(stroke
 			(width 0)
@@ -560,7 +560,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 69.85) (xy 191.77 69.85)
+			(xy 114.3 69.85) (xy 110.49 69.85)
 		)
 		(stroke
 			(width 0)
@@ -570,7 +570,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 69.85) (xy 110.49 92.71)
+			(xy 191.77 69.85) (xy 191.77 92.71)
 		)
 		(stroke
 			(width 0)
@@ -580,7 +580,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 92.71) (xy 78.74 115.57)
+			(xy 223.52 92.71) (xy 223.52 115.57)
 		)
 		(stroke
 			(width 0)
@@ -590,7 +590,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 115.57) (xy 160.02 115.57)
+			(xy 146.05 115.57) (xy 142.24 115.57)
 		)
 		(stroke
 			(width 0)
@@ -600,7 +600,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 92.71) (xy 96.52 92.71)
+			(xy 209.55 92.71) (xy 205.74 92.71)
 		)
 		(stroke
 			(width 0)
@@ -610,7 +610,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 115.57) (xy 177.8 115.57)
+			(xy 128.27 115.57) (xy 124.46 115.57)
 		)
 		(stroke
 			(width 0)
@@ -620,7 +620,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 69.85) (xy 173.99 92.71)
+			(xy 128.27 69.85) (xy 128.27 92.71)
 		)
 		(stroke
 			(width 0)
@@ -630,7 +630,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 69.85) (xy 78.74 92.71)
+			(xy 223.52 69.85) (xy 223.52 92.71)
 		)
 		(stroke
 			(width 0)
@@ -640,7 +640,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 69.85) (xy 205.74 92.71)
+			(xy 96.52 69.85) (xy 96.52 92.71)
 		)
 		(stroke
 			(width 0)
@@ -650,7 +650,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 92.71) (xy 160.02 92.71)
+			(xy 146.05 92.71) (xy 142.24 92.71)
 		)
 		(stroke
 			(width 0)
@@ -660,7 +660,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 115.57) (xy 209.55 115.57)
+			(xy 96.52 115.57) (xy 92.71 115.57)
 		)
 		(stroke
 			(width 0)
@@ -670,7 +670,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 55.88) (xy 110.49 69.85)
+			(xy 191.77 55.88) (xy 191.77 69.85)
 		)
 		(stroke
 			(width 0)
@@ -680,7 +680,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 123.19) (xy 223.52 123.19)
+			(xy 110.49 123.19) (xy 78.74 123.19)
 		)
 		(stroke
 			(width 0)
@@ -690,7 +690,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 92.71) (xy 173.99 115.57)
+			(xy 128.27 92.71) (xy 128.27 115.57)
 		)
 		(stroke
 			(width 0)
@@ -700,7 +700,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 100.33) (xy 96.52 100.33)
+			(xy 234.95 100.33) (xy 205.74 100.33)
 		)
 		(stroke
 			(width 0)
@@ -710,7 +710,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 69.85) (xy 177.8 69.85)
+			(xy 128.27 69.85) (xy 124.46 69.85)
 		)
 		(stroke
 			(width 0)
@@ -720,7 +720,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 69.85) (xy 96.52 69.85)
+			(xy 209.55 69.85) (xy 205.74 69.85)
 		)
 		(stroke
 			(width 0)
@@ -730,7 +730,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 92.71) (xy 191.77 92.71)
+			(xy 114.3 92.71) (xy 110.49 92.71)
 		)
 		(stroke
 			(width 0)
@@ -740,7 +740,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 92.71) (xy 142.24 115.57)
+			(xy 160.02 92.71) (xy 160.02 115.57)
 		)
 		(stroke
 			(width 0)
@@ -750,7 +750,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 69.85) (xy 128.27 69.85)
+			(xy 177.8 69.85) (xy 173.99 69.85)
 		)
 		(stroke
 			(width 0)
@@ -760,7 +760,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 100.33) (xy 128.27 100.33)
+			(xy 205.74 100.33) (xy 173.99 100.33)
 		)
 		(stroke
 			(width 0)
@@ -770,7 +770,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 92.71) (xy 209.55 92.71)
+			(xy 96.52 92.71) (xy 92.71 92.71)
 		)
 		(stroke
 			(width 0)
@@ -780,7 +780,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 138.43) (xy 96.52 138.43)
+			(xy 209.55 138.43) (xy 205.74 138.43)
 		)
 		(stroke
 			(width 0)
@@ -790,7 +790,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 115.57) (xy 96.52 115.57)
+			(xy 209.55 115.57) (xy 205.74 115.57)
 		)
 		(stroke
 			(width 0)
@@ -800,7 +800,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 138.43) (xy 128.27 138.43)
+			(xy 177.8 138.43) (xy 173.99 138.43)
 		)
 		(stroke
 			(width 0)
@@ -810,7 +810,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 69.85) (xy 146.05 69.85)
+			(xy 160.02 69.85) (xy 156.21 69.85)
 		)
 		(stroke
 			(width 0)
@@ -820,7 +820,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 100.33) (xy 223.52 100.33)
+			(xy 110.49 100.33) (xy 78.74 100.33)
 		)
 		(stroke
 			(width 0)
@@ -830,7 +830,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 92.71) (xy 223.52 92.71)
+			(xy 82.55 92.71) (xy 78.74 92.71)
 		)
 		(stroke
 			(width 0)
@@ -840,7 +840,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 92.71) (xy 114.3 92.71)
+			(xy 191.77 92.71) (xy 187.96 92.71)
 		)
 		(stroke
 			(width 0)
@@ -850,7 +850,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 115.57) (xy 146.05 115.57)
+			(xy 160.02 115.57) (xy 156.21 115.57)
 		)
 		(stroke
 			(width 0)
@@ -860,7 +860,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 123.19) (xy 96.52 123.19)
+			(xy 234.95 123.19) (xy 205.74 123.19)
 		)
 		(stroke
 			(width 0)
@@ -870,7 +870,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 92.71) (xy 205.74 115.57)
+			(xy 96.52 92.71) (xy 96.52 115.57)
 		)
 		(stroke
 			(width 0)
@@ -880,7 +880,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 92.71) (xy 128.27 92.71)
+			(xy 177.8 92.71) (xy 173.99 92.71)
 		)
 		(stroke
 			(width 0)
@@ -890,7 +890,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 92.71) (xy 177.8 92.71)
+			(xy 128.27 92.71) (xy 124.46 92.71)
 		)
 		(stroke
 			(width 0)
@@ -900,7 +900,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 115.57) (xy 78.74 138.43)
+			(xy 223.52 115.57) (xy 223.52 138.43)
 		)
 		(stroke
 			(width 0)
@@ -910,7 +910,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 55.88) (xy 173.99 69.85)
+			(xy 128.27 55.88) (xy 128.27 69.85)
 		)
 		(stroke
 			(width 0)
@@ -920,7 +920,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 146.05) (xy 128.27 146.05)
+			(xy 205.74 146.05) (xy 173.99 146.05)
 		)
 		(stroke
 			(width 0)
@@ -930,7 +930,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 115.57) (xy 223.52 115.57)
+			(xy 82.55 115.57) (xy 78.74 115.57)
 		)
 		(stroke
 			(width 0)
@@ -940,7 +940,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 77.47) (xy 160.02 77.47)
+			(xy 173.99 77.47) (xy 142.24 77.47)
 		)
 		(stroke
 			(width 0)
@@ -950,7 +950,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 115.57) (xy 128.27 115.57)
+			(xy 177.8 115.57) (xy 173.99 115.57)
 		)
 		(stroke
 			(width 0)
@@ -960,7 +960,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 77.47) (xy 128.27 77.47)
+			(xy 205.74 77.47) (xy 173.99 77.47)
 		)
 		(stroke
 			(width 0)
@@ -970,7 +970,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 138.43) (xy 114.3 138.43)
+			(xy 191.77 138.43) (xy 187.96 138.43)
 		)
 		(stroke
 			(width 0)
@@ -980,7 +980,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 115.57) (xy 110.49 138.43)
+			(xy 191.77 115.57) (xy 191.77 138.43)
 		)
 		(stroke
 			(width 0)
@@ -990,7 +990,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 69.85) (xy 82.55 69.85)
+			(xy 223.52 69.85) (xy 219.71 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1000,7 +1000,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 77.47) (xy 191.77 77.47)
+			(xy 142.24 77.47) (xy 110.49 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1010,7 +1010,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 69.85) (xy 209.55 69.85)
+			(xy 96.52 69.85) (xy 92.71 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1020,7 +1020,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 146.05) (xy 96.52 146.05)
+			(xy 234.95 146.05) (xy 205.74 146.05)
 		)
 		(stroke
 			(width 0)
@@ -1030,7 +1030,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 92.71) (xy 146.05 92.71)
+			(xy 160.02 92.71) (xy 156.21 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1040,7 +1040,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 77.47) (xy 96.52 77.47)
+			(xy 234.95 77.47) (xy 205.74 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1050,7 +1050,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 77.47) (xy 223.52 77.47)
+			(xy 110.49 77.47) (xy 78.74 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1060,7 +1060,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 115.57) (xy 82.55 115.57)
+			(xy 223.52 115.57) (xy 219.71 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1070,7 +1070,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 55.88) (xy 142.24 69.85)
+			(xy 160.02 55.88) (xy 160.02 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1080,7 +1080,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 55.88) (xy 205.74 69.85)
+			(xy 96.52 55.88) (xy 96.52 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1090,7 +1090,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 100.33) (xy 160.02 100.33)
+			(xy 173.99 100.33) (xy 142.24 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1100,7 +1100,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 69.85) (xy 223.52 69.85)
+			(xy 82.55 69.85) (xy 78.74 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1110,7 +1110,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 92.71) (xy 82.55 92.71)
+			(xy 223.52 92.71) (xy 219.71 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1120,7 +1120,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 69.85) (xy 142.24 92.71)
+			(xy 160.02 69.85) (xy 160.02 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1130,7 +1130,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 123.19) (xy 191.77 123.19)
+			(xy 142.24 123.19) (xy 110.49 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1140,7 +1140,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 115.57) (xy 191.77 115.57)
+			(xy 114.3 115.57) (xy 110.49 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1150,7 +1150,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 100.33) (xy 191.77 100.33)
+			(xy 142.24 100.33) (xy 110.49 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1160,7 +1160,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 69.85) (xy 160.02 69.85)
+			(xy 146.05 69.85) (xy 142.24 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1170,7 +1170,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 55.88) (xy 78.74 69.85)
+			(xy 223.52 55.88) (xy 223.52 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1180,7 +1180,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 138.43) (xy 82.55 138.43)
+			(xy 223.52 138.43) (xy 219.71 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1190,7 +1190,7 @@
 	)
 	(global_label "COL0"
 		(shape input)
-		(at 78.74 55.88 90)
+		(at 223.52 55.88 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1200,7 +1200,7 @@
 		)
 		(uuid "01b73bfa-fe47-45d7-bcf9-5b876d11ec13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.74 48.0567 90)
+			(at 223.52 48.0567 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1214,17 +1214,17 @@
 	)
 	(global_label "ROW2"
 		(shape input)
-		(at 67.31 123.19 180)
+		(at 234.95 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "5eb4c130-1012-43d6-898b-3af4efa96fd6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.0634 123.19 0)
+			(at 243.1966 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1232,13 +1232,13 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
 	(global_label "COL4"
 		(shape input)
-		(at 205.74 55.88 90)
+		(at 96.52 55.88 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1248,7 +1248,7 @@
 		)
 		(uuid "5f965049-f1fb-47ff-926a-b8f523cf85a3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 205.74 48.0567 90)
+			(at 96.52 48.0567 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1262,17 +1262,17 @@
 	)
 	(global_label "ROW0"
 		(shape input)
-		(at 67.31 77.47 180)
+		(at 234.95 77.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "71eaaa51-3f56-4f7d-832a-5736f45a9e04")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.0634 77.47 0)
+			(at 243.1966 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1280,13 +1280,13 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
 	(global_label "COL2"
 		(shape input)
-		(at 142.24 55.88 90)
+		(at 160.02 55.88 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1296,7 +1296,7 @@
 		)
 		(uuid "804fd9b4-7a45-4762-b2b7-e3eb259d8048")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.24 48.0567 90)
+			(at 160.02 48.0567 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1310,7 +1310,7 @@
 	)
 	(global_label "COL3"
 		(shape input)
-		(at 173.99 55.88 90)
+		(at 128.27 55.88 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1320,7 +1320,7 @@
 		)
 		(uuid "b2095581-d715-457d-8840-9460a7cc2edd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.99 48.0567 90)
+			(at 128.27 48.0567 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1334,7 +1334,7 @@
 	)
 	(global_label "COL1"
 		(shape input)
-		(at 110.49 55.88 90)
+		(at 191.77 55.88 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1344,7 +1344,7 @@
 		)
 		(uuid "bd403103-57b3-42bd-8179-fbac1b69bee2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.49 48.0567 90)
+			(at 191.77 48.0567 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1358,17 +1358,17 @@
 	)
 	(global_label "ROW3"
 		(shape input)
-		(at 67.31 146.05 180)
+		(at 234.95 146.05 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "c59313ba-19b2-4424-9c0a-305f8325491c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.0634 146.05 0)
+			(at 243.1966 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1376,23 +1376,23 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
 	(global_label "ROW1"
 		(shape input)
-		(at 67.31 100.33 180)
+		(at 234.95 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "d70cc813-8eb9-4bb6-b2b9-a40eeaaa65d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.0634 100.33 0)
+			(at 243.1966 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1400,13 +1400,14 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 214.63 115.57 0)
+		(at 87.63 115.57 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1417,7 +1418,7 @@
 		(fields_autoplaced yes)
 		(uuid "039b32ec-f5d4-448d-82d2-7a1516e356fc")
 		(property "Reference" "KEY15"
-			(at 214.63 107.95 0)
+			(at 87.63 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1427,7 +1428,7 @@
 			)
 		)
 		(property "Value" "Choc-Keyswitch"
-			(at 214.63 110.49 0)
+			(at 87.63 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1437,7 +1438,7 @@
 			)
 		)
 		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 214.63 110.49 0)
+			(at 87.63 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1448,7 +1449,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 110.49 0)
+			(at 87.63 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1459,7 +1460,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 214.63 115.57 0)
+			(at 87.63 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1476,7 +1477,7 @@
 			(uuid "9e29bb4b-e92d-4b5e-9995-ee7a768b942a")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY15")
 					(unit 1)
@@ -1486,7 +1487,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 96.52 96.52 90)
+		(at 205.74 96.52 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1497,7 +1499,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a9c4e5e-8dbf-4265-888f-e6a3ac91f144")
 		(property "Reference" "D6"
-			(at 99.06 95.2499 90)
+			(at 203.2 95.2499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1508,7 +1510,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 99.06 97.7899 90)
+			(at 203.2 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1519,7 +1521,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 96.52 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1530,7 +1532,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1541,7 +1543,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 96.52 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1552,7 +1554,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 96.52 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1563,7 +1565,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 96.52 0)
+			(at 205.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1580,7 +1582,7 @@
 			(uuid "389cae68-9f5b-46f7-8a36-779679e0290d")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D6")
 					(unit 1)
@@ -1590,7 +1592,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 119.38 115.57 0)
+		(at 182.88 115.57 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1601,7 +1604,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d08c663-c86d-48a0-b484-7ad2cd69ac7a")
 		(property "Reference" "KEY12"
-			(at 119.38 107.95 0)
+			(at 182.88 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1611,7 +1614,7 @@
 			)
 		)
 		(property "Value" "Choc-Keyswitch"
-			(at 119.38 110.49 0)
+			(at 182.88 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1621,7 +1624,7 @@
 			)
 		)
 		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 119.38 110.49 0)
+			(at 182.88 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1632,7 +1635,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 110.49 0)
+			(at 182.88 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1643,7 +1646,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 119.38 115.57 0)
+			(at 182.88 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1660,7 +1663,7 @@
 			(uuid "126fa021-31e3-45ce-ab30-173279531dd6")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY12")
 					(unit 1)
@@ -1670,7 +1673,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 128.27 142.24 90)
+		(at 173.99 142.24 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1681,7 +1685,7 @@
 		(fields_autoplaced yes)
 		(uuid "162d2e0d-7835-4b70-9b73-7cb48ce844e2")
 		(property "Reference" "D17"
-			(at 130.81 140.9699 90)
+			(at 171.45 140.9699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1692,7 +1696,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 130.81 143.5099 90)
+			(at 171.45 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1703,7 +1707,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 128.27 142.24 0)
+			(at 173.99 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1714,7 +1718,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 142.24 0)
+			(at 173.99 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1725,7 +1729,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 128.27 142.24 0)
+			(at 173.99 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1736,7 +1740,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 128.27 142.24 0)
+			(at 173.99 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1747,7 +1751,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 128.27 142.24 0)
+			(at 173.99 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1764,7 +1768,7 @@
 			(uuid "9dcb13d2-0205-4f4f-b5a6-34c53ed601b2")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D17")
 					(unit 1)
@@ -1774,7 +1778,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 223.52 73.66 90)
+		(at 78.74 73.66 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1785,7 +1790,7 @@
 		(fields_autoplaced yes)
 		(uuid "1e18aea1-0b6c-4ce9-9649-1feb37f0e2b8")
 		(property "Reference" "D5"
-			(at 226.06 72.3899 90)
+			(at 76.2 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1796,7 +1801,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 226.06 74.9299 90)
+			(at 76.2 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1807,7 +1812,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 223.52 73.66 0)
+			(at 78.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1818,7 +1823,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 73.66 0)
+			(at 78.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1829,7 +1834,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 223.52 73.66 0)
+			(at 78.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1840,7 +1845,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 73.66 0)
+			(at 78.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1851,7 +1856,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 73.66 0)
+			(at 78.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1868,7 +1873,7 @@
 			(uuid "20d86daa-ea20-4f3d-8b36-cf60359658e5")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D5")
 					(unit 1)
@@ -1878,7 +1883,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 214.63 92.71 0)
+		(at 87.63 92.71 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1889,7 +1895,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f482d4a-dd0b-46fc-bfcd-3dde079b79ea")
 		(property "Reference" "KEY10"
-			(at 214.63 85.09 0)
+			(at 87.63 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1899,7 +1905,7 @@
 			)
 		)
 		(property "Value" "Choc-Keyswitch"
-			(at 214.63 87.63 0)
+			(at 87.63 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1909,7 +1915,7 @@
 			)
 		)
 		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 214.63 87.63 0)
+			(at 87.63 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1920,7 +1926,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 87.63 0)
+			(at 87.63 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1931,7 +1937,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 214.63 92.71 0)
+			(at 87.63 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1948,7 +1954,7 @@
 			(uuid "4403b13f-c595-4c7b-976e-b232dfddbb34")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY10")
 					(unit 1)
@@ -1958,7 +1964,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 128.27 119.38 90)
+		(at 173.99 119.38 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1969,7 +1976,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f7cb383-fdd9-4c12-896b-bcf8fe13037b")
 		(property "Reference" "D12"
-			(at 130.81 118.1099 90)
+			(at 171.45 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1980,7 +1987,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 130.81 120.6499 90)
+			(at 171.45 120.6499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1991,7 +1998,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 128.27 119.38 0)
+			(at 173.99 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2002,7 +2009,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 119.38 0)
+			(at 173.99 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2013,7 +2020,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 128.27 119.38 0)
+			(at 173.99 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2024,7 +2031,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 128.27 119.38 0)
+			(at 173.99 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2035,7 +2042,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 128.27 119.38 0)
+			(at 173.99 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2052,7 +2059,7 @@
 			(uuid "3b30d9f9-f652-4b58-b3ef-65c024bd8697")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D12")
 					(unit 1)
@@ -2063,6 +2070,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 151.13 115.57 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2132,7 +2140,7 @@
 			(uuid "38126d56-ddfb-4c7b-ab48-19d04432e177")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY13")
 					(unit 1)
@@ -2142,7 +2150,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 182.88 115.57 0)
+		(at 119.38 115.57 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2153,7 +2162,7 @@
 		(fields_autoplaced yes)
 		(uuid "413f1d62-0b0b-47cc-ba7a-9a85fae8f05c")
 		(property "Reference" "KEY14"
-			(at 182.88 107.95 0)
+			(at 119.38 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2163,7 +2172,7 @@
 			)
 		)
 		(property "Value" "Choc-Keyswitch"
-			(at 182.88 110.49 0)
+			(at 119.38 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2173,7 +2182,7 @@
 			)
 		)
 		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 182.88 110.49 0)
+			(at 119.38 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2184,7 +2193,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 182.88 110.49 0)
+			(at 119.38 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2195,7 +2204,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 182.88 115.57 0)
+			(at 119.38 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2212,7 +2221,7 @@
 			(uuid "efa58695-2abd-4880-8795-e5fe41e1fa75")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY14")
 					(unit 1)
@@ -2223,6 +2232,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 151.13 69.85 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2292,7 +2302,7 @@
 			(uuid "01809f51-f8e9-42ac-8ec7-06ab469f52a4")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY3")
 					(unit 1)
@@ -2302,7 +2312,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 96.52 142.24 90)
+		(at 205.74 142.24 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2313,7 +2324,7 @@
 		(fields_autoplaced yes)
 		(uuid "4d541f13-ecc2-4a7f-913a-7b0adb91fe4e")
 		(property "Reference" "D16"
-			(at 99.06 140.9699 90)
+			(at 203.2 140.9699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2324,7 +2335,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 99.06 143.5099 90)
+			(at 203.2 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2335,7 +2346,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 96.52 142.24 0)
+			(at 205.74 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2346,7 +2357,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 142.24 0)
+			(at 205.74 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2357,7 +2368,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 96.52 142.24 0)
+			(at 205.74 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2368,7 +2379,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 96.52 142.24 0)
+			(at 205.74 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2379,7 +2390,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 142.24 0)
+			(at 205.74 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2396,7 +2407,7 @@
 			(uuid "56287c20-2a02-4279-9c04-ec1f4dbf5885")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D16")
 					(unit 1)
@@ -2406,7 +2417,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 191.77 73.66 90)
+		(at 110.49 73.66 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2417,7 +2429,7 @@
 		(fields_autoplaced yes)
 		(uuid "59ac0f7b-095d-4f25-8886-4a67d6a74d88")
 		(property "Reference" "D4"
-			(at 194.31 72.3899 90)
+			(at 107.95 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2428,7 +2440,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 194.31 74.9299 90)
+			(at 107.95 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2439,7 +2451,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 191.77 73.66 0)
+			(at 110.49 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2450,7 +2462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 73.66 0)
+			(at 110.49 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2461,7 +2473,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 191.77 73.66 0)
+			(at 110.49 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2472,7 +2484,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 191.77 73.66 0)
+			(at 110.49 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2483,7 +2495,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 191.77 73.66 0)
+			(at 110.49 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2500,7 +2512,7 @@
 			(uuid "417a1e47-0a3b-430e-b6f7-11b45fcb320d")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D4")
 					(unit 1)
@@ -2510,7 +2522,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 87.63 92.71 0)
+		(at 214.63 92.71 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2521,7 +2534,7 @@
 		(fields_autoplaced yes)
 		(uuid "61e1fa94-2f71-4ec9-b5b0-2ca502ce5857")
 		(property "Reference" "KEY6"
-			(at 87.63 85.09 0)
+			(at 214.63 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2531,7 +2544,7 @@
 			)
 		)
 		(property "Value" "Choc-Keyswitch"
-			(at 87.63 87.63 0)
+			(at 214.63 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2541,7 +2554,7 @@
 			)
 		)
 		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 87.63 87.63 0)
+			(at 214.63 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2552,7 +2565,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 87.63 0)
+			(at 214.63 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2563,7 +2576,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 87.63 92.71 0)
+			(at 214.63 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2580,7 +2593,7 @@
 			(uuid "d0505481-4170-4499-bb8a-6cebc03c8b49")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY6")
 					(unit 1)
@@ -2590,7 +2603,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 119.38 138.43 0)
+		(at 182.88 138.43 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2601,7 +2615,7 @@
 		(fields_autoplaced yes)
 		(uuid "6961ea2e-38b6-47b4-9393-6388a367b936")
 		(property "Reference" "KEY17"
-			(at 119.38 130.81 0)
+			(at 182.88 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2611,7 +2625,7 @@
 			)
 		)
 		(property "Value" "Choc-Keyswitch"
-			(at 119.38 133.35 0)
+			(at 182.88 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2621,7 +2635,7 @@
 			)
 		)
 		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 119.38 133.35 0)
+			(at 182.88 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2632,7 +2646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 133.35 0)
+			(at 182.88 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2643,7 +2657,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 119.38 138.43 0)
+			(at 182.88 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2660,7 +2674,7 @@
 			(uuid "72452989-5ec8-4382-a3aa-7e2461a450e9")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY17")
 					(unit 1)
@@ -2670,7 +2684,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 128.27 96.52 90)
+		(at 173.99 96.52 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2681,7 +2696,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a69ba83-20ae-4daa-989e-d73bed1cf93b")
 		(property "Reference" "D7"
-			(at 130.81 95.2499 90)
+			(at 171.45 95.2499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2692,7 +2707,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 130.81 97.7899 90)
+			(at 171.45 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2703,7 +2718,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 128.27 96.52 0)
+			(at 173.99 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2714,7 +2729,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 96.52 0)
+			(at 173.99 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2725,7 +2740,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 128.27 96.52 0)
+			(at 173.99 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2736,7 +2751,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 128.27 96.52 0)
+			(at 173.99 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2747,7 +2762,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 128.27 96.52 0)
+			(at 173.99 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2764,7 +2779,7 @@
 			(uuid "56389e78-cb9b-4f83-932e-911b144277b3")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D7")
 					(unit 1)
@@ -2775,6 +2790,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 151.13 92.71 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2844,7 +2860,7 @@
 			(uuid "1fee1965-ccda-416e-ab62-85c9bcd43487")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY8")
 					(unit 1)
@@ -2854,7 +2870,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 96.52 73.66 90)
+		(at 205.74 73.66 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2865,7 +2882,7 @@
 		(fields_autoplaced yes)
 		(uuid "874de934-ed31-4cc1-99ce-d59a6367d2b8")
 		(property "Reference" "D1"
-			(at 99.06 72.3899 90)
+			(at 203.2 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2876,7 +2893,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 99.06 74.9299 90)
+			(at 203.2 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2887,7 +2904,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 96.52 73.66 0)
+			(at 205.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2898,7 +2915,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 73.66 0)
+			(at 205.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2909,7 +2926,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 96.52 73.66 0)
+			(at 205.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2920,7 +2937,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 96.52 73.66 0)
+			(at 205.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2931,7 +2948,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 73.66 0)
+			(at 205.74 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2948,7 +2965,7 @@
 			(uuid "db9a83f4-fc28-4bb7-bafb-99c0da3bf4c8")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D1")
 					(unit 1)
@@ -2958,7 +2975,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 160.02 73.66 90)
+		(at 142.24 73.66 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2969,7 +2987,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e1c6409-7131-4721-8a5d-ff2cf1b798f2")
 		(property "Reference" "D3"
-			(at 162.56 72.3899 90)
+			(at 139.7 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2980,7 +2998,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 162.56 74.9299 90)
+			(at 139.7 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2991,7 +3009,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 160.02 73.66 0)
+			(at 142.24 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3002,7 +3020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 73.66 0)
+			(at 142.24 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3013,7 +3031,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 160.02 73.66 0)
+			(at 142.24 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3024,7 +3042,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 160.02 73.66 0)
+			(at 142.24 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3035,7 +3053,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 73.66 0)
+			(at 142.24 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3052,7 +3070,7 @@
 			(uuid "fab37f16-c94a-4b37-9d06-e7e1a0cefd13")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D3")
 					(unit 1)
@@ -3062,7 +3080,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 128.27 73.66 90)
+		(at 173.99 73.66 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3073,7 +3092,7 @@
 		(fields_autoplaced yes)
 		(uuid "9222c4cf-428b-4b47-99d9-d8e2e76ee401")
 		(property "Reference" "D2"
-			(at 130.81 72.3899 90)
+			(at 171.45 72.3899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3084,7 +3103,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 130.81 74.9299 90)
+			(at 171.45 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3095,7 +3114,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 128.27 73.66 0)
+			(at 173.99 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3106,7 +3125,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 73.66 0)
+			(at 173.99 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3117,7 +3136,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 128.27 73.66 0)
+			(at 173.99 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3128,7 +3147,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 128.27 73.66 0)
+			(at 173.99 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3139,7 +3158,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 128.27 73.66 0)
+			(at 173.99 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3156,7 +3175,7 @@
 			(uuid "01103437-e640-4696-9a99-81a564ef80c0")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D2")
 					(unit 1)
@@ -3166,7 +3185,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 160.02 96.52 90)
+		(at 142.24 96.52 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3177,7 +3197,7 @@
 		(fields_autoplaced yes)
 		(uuid "99a11d4d-8f5d-48ab-af44-1990844b81ad")
 		(property "Reference" "D8"
-			(at 162.56 95.2499 90)
+			(at 139.7 95.2499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3188,7 +3208,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 162.56 97.7899 90)
+			(at 139.7 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3199,7 +3219,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 160.02 96.52 0)
+			(at 142.24 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3210,7 +3230,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 96.52 0)
+			(at 142.24 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3221,7 +3241,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 160.02 96.52 0)
+			(at 142.24 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3232,7 +3252,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 160.02 96.52 0)
+			(at 142.24 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3243,7 +3263,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 96.52 0)
+			(at 142.24 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3260,7 +3280,7 @@
 			(uuid "d7b4c6a9-f19a-4d73-a5a5-01f776598a74")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "D8")
 					(unit 1)
@@ -3270,7 +3290,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 214.63 69.85 0)
+		(at 87.63 69.85 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3281,454 +3302,6 @@
 		(fields_autoplaced yes)
 		(uuid "a0b2b49e-672a-4164-b286-785ab509f1b3")
 		(property "Reference" "KEY5"
-			(at 214.63 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Choc-Keyswitch"
-			(at 214.63 64.77 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 214.63 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 214.63 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d9992957-562c-47b1-b57e-0a50db630ed9")
-		)
-		(pin "2"
-			(uuid "16570368-e006-46e9-ac13-f06b448e0207")
-		)
-		(instances
-			(project "keyboardA"
-				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "KEY5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 96.52 119.38 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a2d84ffd-e7e9-43c5-bb49-5d8fe829e585")
-		(property "Reference" "D11"
-			(at 99.06 118.1099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 99.06 120.6499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 96.52 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode"
-			(at 96.52 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 96.52 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 96.52 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9c8f1dbf-eb0d-46fa-b852-ad012bf1777e")
-		)
-		(pin "1"
-			(uuid "040f34c1-957a-4cc4-9d4f-45d20397ba8d")
-		)
-		(instances
-			(project "keyboardA"
-				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 223.52 96.52 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a2e26be9-5173-4b76-8546-a8e2e16eb873")
-		(property "Reference" "D10"
-			(at 226.06 95.2499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148W"
-			(at 226.06 97.7899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 223.52 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode"
-			(at 223.52 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 223.52 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "b0806c39-5fe0-430d-aa28-75dd651a05b9")
-		)
-		(pin "1"
-			(uuid "8bf6eb38-f579-4a33-b31b-8b715c5db365")
-		)
-		(instances
-			(project "keyboardA"
-				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 119.38 92.71 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b3b91538-157c-431e-a682-5b638cbe6b25")
-		(property "Reference" "KEY7"
-			(at 119.38 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Choc-Keyswitch"
-			(at 119.38 87.63 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 119.38 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 119.38 92.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "37a888c3-e586-48bc-9071-e4ba1e59cdee")
-		)
-		(pin "2"
-			(uuid "8304de5f-49eb-487f-8a6c-d5b36e2625a2")
-		)
-		(instances
-			(project "keyboardA"
-				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "KEY7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 87.63 138.43 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b677a529-8bff-4a05-ace6-b4fa72f4c0e4")
-		(property "Reference" "KEY16"
-			(at 87.63 130.81 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Choc-Keyswitch"
-			(at 87.63 133.35 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 87.63 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 87.63 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "70d90ba5-251e-4235-9c56-f7c733e71511")
-		)
-		(pin "2"
-			(uuid "ac7df09b-c111-4fb3-82ca-b7108cd6dde1")
-		)
-		(instances
-			(project "keyboardA"
-				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "KEY16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 87.63 69.85 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bb33f853-6b87-4b6e-b990-9dfcac9b137b")
-		(property "Reference" "KEY1"
 			(at 87.63 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3782,15 +3355,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "40cc2a08-0ced-4674-afb6-53a952c8bf07")
+			(uuid "d9992957-562c-47b1-b57e-0a50db630ed9")
 		)
 		(pin "2"
-			(uuid "4905cb82-cf16-4c8b-8a93-3b3a4c7f4aee")
+			(uuid "16570368-e006-46e9-ac13-f06b448e0207")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "KEY1")
+					(reference "KEY5")
 					(unit 1)
 				)
 			)
@@ -3798,7 +3371,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 191.77 96.52 90)
+		(at 205.74 119.38 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3807,9 +3381,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c87e0b93-c419-4385-a759-9fd651934010")
-		(property "Reference" "D9"
-			(at 194.31 95.2499 90)
+		(uuid "a2d84ffd-e7e9-43c5-bb49-5d8fe829e585")
+		(property "Reference" "D11"
+			(at 203.2 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3820,7 +3394,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 194.31 97.7899 90)
+			(at 203.2 120.6499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3831,7 +3405,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 191.77 96.52 0)
+			(at 205.74 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3842,7 +3416,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 96.52 0)
+			(at 205.74 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3853,7 +3427,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 191.77 96.52 0)
+			(at 205.74 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3864,7 +3438,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 191.77 96.52 0)
+			(at 205.74 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3875,7 +3449,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 191.77 96.52 0)
+			(at 205.74 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3886,95 +3460,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "abd91cbd-0b63-438a-886b-0e23e4cb9f7d")
+			(uuid "9c8f1dbf-eb0d-46fa-b852-ad012bf1777e")
 		)
 		(pin "1"
-			(uuid "31eb9fd2-4101-4672-b2f8-eef89b011a21")
+			(uuid "040f34c1-957a-4cc4-9d4f-45d20397ba8d")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 87.63 115.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cb1bad6b-6d0d-4ea9-b887-ed4522cc540a")
-		(property "Reference" "KEY11"
-			(at 87.63 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Choc-Keyswitch"
-			(at 87.63 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 87.63 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 87.63 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "56657b22-8e2b-4848-9c3d-cbdcfcb9a837")
-		)
-		(pin "2"
-			(uuid "deaa6482-653d-4a3e-aacb-9a031f2e5c22")
-		)
-		(instances
-			(project "keyboardA"
-				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "KEY11")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -3982,7 +3476,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 223.52 119.38 90)
+		(at 78.74 96.52 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3991,9 +3486,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d919a8b9-03ef-4fe9-aad6-387551d5764f")
-		(property "Reference" "D15"
-			(at 226.06 118.1099 90)
+		(uuid "a2e26be9-5173-4b76-8546-a8e2e16eb873")
+		(property "Reference" "D10"
+			(at 76.2 95.2499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4004,7 +3499,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 226.06 120.6499 90)
+			(at 76.2 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4015,7 +3510,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 223.52 119.38 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4026,7 +3521,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 119.38 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4037,7 +3532,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 223.52 119.38 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4048,7 +3543,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 119.38 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4059,7 +3554,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 119.38 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4070,15 +3565,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "f01d9421-f34d-4eae-a129-5cb3201903fb")
+			(uuid "b0806c39-5fe0-430d-aa28-75dd651a05b9")
 		)
 		(pin "1"
-			(uuid "1cbc9713-af8c-4c44-87cb-49a992e87e34")
+			(uuid "8bf6eb38-f579-4a33-b31b-8b715c5db365")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "D15")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -4087,6 +3582,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 182.88 92.71 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4095,8 +3591,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d93e26aa-6001-4e7b-9cb7-af2c27ff707e")
-		(property "Reference" "KEY9"
+		(uuid "b3b91538-157c-431e-a682-5b638cbe6b25")
+		(property "Reference" "KEY7"
 			(at 182.88 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4150,15 +3646,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "68f19851-0142-424c-909d-85ba9323b607")
+			(uuid "37a888c3-e586-48bc-9071-e4ba1e59cdee")
 		)
 		(pin "2"
-			(uuid "d030a72e-e98f-4f7f-80f7-1073f0922e1e")
+			(uuid "8304de5f-49eb-487f-8a6c-d5b36e2625a2")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "KEY9")
+					(reference "KEY7")
 					(unit 1)
 				)
 			)
@@ -4166,7 +3662,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 119.38 69.85 0)
+		(at 214.63 138.43 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4175,9 +3672,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d9db3d81-d67b-48ad-b746-4acc2570bee3")
-		(property "Reference" "KEY2"
-			(at 119.38 62.23 0)
+		(uuid "b677a529-8bff-4a05-ace6-b4fa72f4c0e4")
+		(property "Reference" "KEY16"
+			(at 214.63 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4187,7 +3684,7 @@
 			)
 		)
 		(property "Value" "Choc-Keyswitch"
-			(at 119.38 64.77 0)
+			(at 214.63 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4197,7 +3694,7 @@
 			)
 		)
 		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
-			(at 119.38 64.77 0)
+			(at 214.63 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4208,7 +3705,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 64.77 0)
+			(at 214.63 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4219,7 +3716,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 119.38 69.85 0)
+			(at 214.63 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4230,23 +3727,24 @@
 			)
 		)
 		(pin "1"
-			(uuid "cae85a47-6f68-4bcf-acf7-6d5ba495ab4c")
+			(uuid "70d90ba5-251e-4235-9c56-f7c733e71511")
 		)
 		(pin "2"
-			(uuid "4b7c8621-4d5e-4225-b50d-13def5b142e2")
+			(uuid "ac7df09b-c111-4fb3-82ca-b7108cd6dde1")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "KEY2")
+					(reference "KEY16")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 160.02 119.38 90)
+		(lib_id "Switch:SW_Push")
+		(at 214.63 69.85 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4255,31 +3753,29 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "db935ec2-a95c-4c60-858f-e2fa3758a807")
-		(property "Reference" "D13"
-			(at 162.56 118.1099 90)
+		(uuid "bb33f853-6b87-4b6e-b990-9dfcac9b137b")
+		(property "Reference" "KEY1"
+			(at 214.63 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
-			(at 162.56 120.6499 90)
+		(property "Value" "Choc-Keyswitch"
+			(at 214.63 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 160.02 119.38 0)
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+			(at 214.63 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4290,7 +3786,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 119.38 0)
+			(at 214.63 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4300,8 +3796,8 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
-			(at 160.02 119.38 0)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 214.63 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4310,39 +3806,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Sim.Device" "D"
-			(at 160.02 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 160.02 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c0c475a8-0fb0-4597-a962-e7b430b402f4")
 		)
 		(pin "1"
-			(uuid "dd61647c-072a-40c4-85db-e6a468410e8d")
+			(uuid "40cc2a08-0ced-4674-afb6-53a952c8bf07")
+		)
+		(pin "2"
+			(uuid "4905cb82-cf16-4c8b-8a93-3b3a4c7f4aee")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "D13")
+					(reference "KEY1")
 					(unit 1)
 				)
 			)
@@ -4350,7 +3824,8 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 191.77 119.38 90)
+		(at 110.49 96.52 270)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4359,9 +3834,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "df4306dd-b3f0-4cde-9527-cb2413dccc0e")
-		(property "Reference" "D14"
-			(at 194.31 118.1099 90)
+		(uuid "c87e0b93-c419-4385-a759-9fd651934010")
+		(property "Reference" "D9"
+			(at 107.95 95.2499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4372,7 +3847,7 @@
 			)
 		)
 		(property "Value" "1N4148W"
-			(at 194.31 120.6499 90)
+			(at 107.95 97.7899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4383,7 +3858,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 191.77 119.38 0)
+			(at 110.49 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4394,7 +3869,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 191.77 119.38 0)
+			(at 110.49 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4405,7 +3880,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 191.77 119.38 0)
+			(at 110.49 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4416,7 +3891,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 191.77 119.38 0)
+			(at 110.49 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4427,7 +3902,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 191.77 119.38 0)
+			(at 110.49 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4438,15 +3913,282 @@
 			)
 		)
 		(pin "2"
-			(uuid "1982dbdf-d176-48b8-ab73-53f134156417")
+			(uuid "abd91cbd-0b63-438a-886b-0e23e4cb9f7d")
 		)
 		(pin "1"
-			(uuid "2872d3fa-934c-40fe-9988-d04edeec9309")
+			(uuid "31eb9fd2-4101-4672-b2f8-eef89b011a21")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
-					(reference "D14")
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 214.63 115.57 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb1bad6b-6d0d-4ea9-b887-ed4522cc540a")
+		(property "Reference" "KEY11"
+			(at 214.63 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 214.63 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+			(at 214.63 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 214.63 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "56657b22-8e2b-4848-9c3d-cbdcfcb9a837")
+		)
+		(pin "2"
+			(uuid "deaa6482-653d-4a3e-aacb-9a031f2e5c22")
+		)
+		(instances
+			(project "left"
+				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
+					(reference "KEY11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 78.74 119.38 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d919a8b9-03ef-4fe9-aad6-387551d5764f")
+		(property "Reference" "D15"
+			(at 76.2 118.1099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 76.2 120.6499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 78.74 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode"
+			(at 78.74 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 78.74 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 78.74 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f01d9421-f34d-4eae-a129-5cb3201903fb")
+		)
+		(pin "1"
+			(uuid "1cbc9713-af8c-4c44-87cb-49a992e87e34")
+		)
+		(instances
+			(project "left"
+				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 119.38 92.71 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d93e26aa-6001-4e7b-9cb7-af2c27ff707e")
+		(property "Reference" "KEY9"
+			(at 119.38 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 119.38 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+			(at 119.38 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 119.38 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "68f19851-0142-424c-909d-85ba9323b607")
+		)
+		(pin "2"
+			(uuid "d030a72e-e98f-4f7f-80f7-1073f0922e1e")
+		)
+		(instances
+			(project "left"
+				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
+					(reference "KEY9")
 					(unit 1)
 				)
 			)
@@ -4455,6 +4197,7 @@
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 182.88 69.85 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4463,8 +4206,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "fc30299d-1f64-4b35-82ae-4dce63e76297")
-		(property "Reference" "KEY4"
+		(uuid "d9db3d81-d67b-48ad-b746-4acc2570bee3")
+		(property "Reference" "KEY2"
 			(at 182.88 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4518,13 +4261,304 @@
 			)
 		)
 		(pin "1"
+			(uuid "cae85a47-6f68-4bcf-acf7-6d5ba495ab4c")
+		)
+		(pin "2"
+			(uuid "4b7c8621-4d5e-4225-b50d-13def5b142e2")
+		)
+		(instances
+			(project "left"
+				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
+					(reference "KEY2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 142.24 119.38 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db935ec2-a95c-4c60-858f-e2fa3758a807")
+		(property "Reference" "D13"
+			(at 139.7 118.1099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 139.7 120.6499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 142.24 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode"
+			(at 142.24 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 142.24 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 142.24 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c0c475a8-0fb0-4597-a962-e7b430b402f4")
+		)
+		(pin "1"
+			(uuid "dd61647c-072a-40c4-85db-e6a468410e8d")
+		)
+		(instances
+			(project "left"
+				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
+					(reference "D13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 110.49 119.38 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df4306dd-b3f0-4cde-9527-cb2413dccc0e")
+		(property "Reference" "D14"
+			(at 107.95 118.1099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148W"
+			(at 107.95 120.6499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode"
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 110.49 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "1982dbdf-d176-48b8-ab73-53f134156417")
+		)
+		(pin "1"
+			(uuid "2872d3fa-934c-40fe-9988-d04edeec9309")
+		)
+		(instances
+			(project "left"
+				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 119.38 69.85 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc30299d-1f64-4b35-82ae-4dce63e76297")
+		(property "Reference" "KEY4"
+			(at 119.38 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 119.38 64.77 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+			(at 119.38 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 119.38 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
 			(uuid "ce989e55-ae31-4d3c-9c24-a59df5c42174")
 		)
 		(pin "2"
 			(uuid "e1583ae3-4d90-4856-852c-ddcd2780b916")
 		)
 		(instances
-			(project "keyboardA"
+			(project "left"
 				(path "/dcd8c3ea-38a0-4672-a9d9-2aa60aa63d6e/6af49d3b-c724-4e5b-a916-88a90f1abb4c"
 					(reference "KEY4")
 					(unit 1)
