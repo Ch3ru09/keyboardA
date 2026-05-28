@@ -1437,7 +1437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 87.63 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1623,7 +1623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 182.88 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1914,7 +1914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 87.63 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2100,7 +2100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 151.13 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2181,7 +2181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 119.38 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2262,7 +2262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 151.13 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2553,7 +2553,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 214.63 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -2634,7 +2634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 182.88 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -2820,7 +2820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 151.13 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3321,7 +3321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 87.63 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3612,7 +3612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 182.88 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -3693,7 +3693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 214.63 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -3774,7 +3774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 214.63 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -3960,7 +3960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 214.63 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -4146,7 +4146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 119.38 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -4227,7 +4227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 182.88 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4518,7 +4518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap"
+		(property "Footprint" "Low Profile Keyswitches:SW_Kailh_Choc_V1_HotSwap_18mm_caps"
 			(at 119.38 64.77 0)
 			(hide yes)
 			(show_name no)
