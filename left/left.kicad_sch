@@ -4908,7 +4908,7 @@
 	)
 	(global_label "TX"
 		(shape input)
-		(at 111.76 120.65 0)
+		(at 111.76 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4918,7 +4918,7 @@
 		)
 		(uuid "25e24545-f5c5-49c2-81f4-d0deab262fc0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.9223 120.65 0)
+			(at 116.9223 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4980,7 +4980,7 @@
 	)
 	(global_label "RX"
 		(shape input)
-		(at 111.76 123.19 0)
+		(at 111.76 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4990,7 +4990,7 @@
 		)
 		(uuid "332b63e0-ef32-438e-b265-2db2c119dcbe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.2247 123.19 0)
+			(at 117.2247 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5028,7 +5028,7 @@
 	)
 	(global_label "ROW1"
 		(shape input)
-		(at 111.76 113.03 0)
+		(at 111.76 87.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5038,7 +5038,7 @@
 		)
 		(uuid "42f1337f-4203-41c6-8d5d-0bb125027f74")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.0066 113.03 0)
+			(at 120.0066 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5196,7 +5196,7 @@
 	)
 	(global_label "ROW3"
 		(shape input)
-		(at 111.76 118.11 0)
+		(at 111.76 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5206,7 +5206,7 @@
 		)
 		(uuid "8326f2bc-a70d-46e6-8412-5d4450ef0bce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.0066 118.11 0)
+			(at 120.0066 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5292,7 +5292,7 @@
 	)
 	(global_label "ROW0"
 		(shape input)
-		(at 111.76 92.71 0)
+		(at 111.76 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5302,7 +5302,7 @@
 		)
 		(uuid "b89d8a19-fbb3-47f0-9f23-209b42460e64")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.0066 92.71 0)
+			(at 120.0066 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5388,7 +5388,7 @@
 	)
 	(global_label "ROW2"
 		(shape input)
-		(at 111.76 115.57 0)
+		(at 111.76 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5398,7 +5398,7 @@
 		)
 		(uuid "e3609d83-3309-4ea5-b271-a8b57529663c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.0066 115.57 0)
+			(at 120.0066 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

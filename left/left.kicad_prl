@@ -52,8 +52,6 @@
       "nRST",
       "unconnected-(U1-PA0-Pad11)",
       "unconnected-(U1-PA1-Pad12)",
-      "unconnected-(U1-PA7-Pad18)",
-      "unconnected-(U1-PB0-Pad19)",
       "ROW1",
       "ROW3",
       "unconnected-(U1-PB15-Pad27)",
@@ -83,7 +81,7 @@
       "unconnected-(J2-D+-PadB6)",
       "unconnected-(J2-D--PadB7)"
     ],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -95,17 +93,17 @@
     },
     "prototype_zone_fills": false,
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": true,
+      "otherItems": false,
+      "pads": false,
+      "text": false,
       "tracks": true,
-      "vias": true,
-      "zones": true
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       "vias",
@@ -131,7 +129,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_aaaaaaaa_aaaaaaaf",
     "zone_display_mode": 0
   },
   "git": {
@@ -179,7 +177,7 @@
       103,
       74,
       103,
-      42
+      103
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

@@ -13,3 +13,6 @@ _autosave-*
 
 # Autorouter files
 .dsn
+
+# Restore files
+*_restore_backup_*
