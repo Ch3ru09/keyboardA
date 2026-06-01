@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -21,8 +21,6 @@
       "Net-(D8-A)",
       "Net-(D3-A)",
       "Net-(D4-A)",
-      "VBUS",
-      "+5V",
       "Net-(D7-A)",
       "Net-(D16-A)",
       "Net-(D12-A)",
@@ -34,9 +32,11 @@
       "ROW0",
       "RX",
       "GND",
+      "TX",
       "unconnected-(U2-IO3-Pad4)",
       "+3.3V",
-      "TX",
+      "unconnected-(U2-IO4-Pad6)",
+      "VBUS",
       "Net-(J1-CC1)",
       "D+",
       "D-",
@@ -52,8 +52,13 @@
       "nRST",
       "unconnected-(U1-PA0-Pad11)",
       "unconnected-(U1-PA1-Pad12)",
-      "ROW1",
       "ROW3",
+      "ROW1",
+      "unconnected-(U1-PA6-Pad17)",
+      "unconnected-(U1-PA7-Pad18)",
+      "unconnected-(U1-PB0-Pad19)",
+      "unconnected-(U1-PB13-Pad25)",
+      "unconnected-(U1-PB14-Pad26)",
       "unconnected-(U1-PB15-Pad27)",
       "unconnected-(U1-PA8-Pad28)",
       "unconnected-(U1-PA9{slash}UCPD1_DBCC1-Pad29)",
@@ -74,6 +79,7 @@
       "unconnected-(U1-PB7-Pad46)",
       "unconnected-(U1-PB8-Pad47)",
       "unconnected-(U1-PB9-Pad48)",
+      "+5V",
       "unconnected-(J2-CC1-PadA5)",
       "unconnected-(J2-D+-PadA6)",
       "unconnected-(J2-D--PadA7)",
@@ -81,7 +87,7 @@
       "unconnected-(J2-D+-PadB6)",
       "unconnected-(J2-D--PadB7)"
     ],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -93,17 +99,17 @@
     },
     "prototype_zone_fills": false,
     "selection_filter": {
-      "dimensions": false,
-      "footprints": false,
-      "graphics": false,
-      "keepouts": false,
+      "dimensions": true,
+      "footprints": true,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": false,
-      "otherItems": false,
-      "pads": false,
-      "text": false,
+      "otherItems": true,
+      "pads": true,
+      "text": true,
       "tracks": true,
-      "vias": false,
-      "zones": false
+      "vias": true,
+      "zones": true
     },
     "visible_items": [
       "vias",
@@ -120,7 +126,6 @@
       "drawing_sheet",
       "bitmaps",
       "pads",
-      "zones",
       "drc_warnings",
       "drc_exclusions",
       "locked_item_shadows",
@@ -129,7 +134,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_aaaaaaaa_aaaaaaaf",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -177,7 +182,7 @@
       103,
       74,
       103,
-      103
+      14
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
