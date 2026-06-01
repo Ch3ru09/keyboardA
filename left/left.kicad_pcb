@@ -2092,7 +2092,7 @@
 		(property "Reference" "KEY11"
 			(at 5 -7.4 0)
 			(layer "B.SilkS")
-			(uuid "d37731ed-ecd0-4317-b707-ca33a1353111")
+			(uuid "017af077-2f3a-4e78-8f1f-c1fcc9a92ffa")
 			(effects
 				(font
 					(size 1 1)
@@ -2104,7 +2104,7 @@
 		(property "Value" "Choc-Keyswitch"
 			(at 0 0 0)
 			(layer "B.Fab")
-			(uuid "519971be-bef7-4ddf-a78f-4aabb359ac22")
+			(uuid "8873a11b-2066-4642-bbdf-4b36fc65bfc1")
 			(effects
 				(font
 					(size 1 1)
@@ -2117,7 +2117,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "bf6bf6f7-1342-4af3-a1e7-6ef5d5258c61")
+			(uuid "19d11598-5de8-430d-a41a-26bc81f01f27")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2130,7 +2130,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "466d2e81-5f64-4889-b538-022da63060d5")
+			(uuid "8e243ad1-c190-4f7d-9c21-893195f49fc1")
 			(effects
 				(font
 					(size 1.27 1.27)
