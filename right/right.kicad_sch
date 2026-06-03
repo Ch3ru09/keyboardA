@@ -7253,7 +7253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 255.27 62.865 0)
 			(hide yes)
 			(show_name no)
