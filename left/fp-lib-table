@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "Low Profile Keyswitches") (type "KiCad") (uri "${KIPRJMOD}/../key-switches.pretty") (options "") (descr "") (disabled))
 	(lib (name "Keyswitch Marbastlib Choc") (type "KiCad") (uri "${KIPRJMOD}/../marbastlib-choc.pretty") (options "") (descr ""))
+	(lib (name "cuts") (type "KiCad") (uri "${KIPRJMOD}/cuts.pretty") (options "") (descr ""))
 )

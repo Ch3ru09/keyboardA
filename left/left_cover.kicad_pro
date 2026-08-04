@@ -264,7 +264,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "left_base.kicad_pro",
+    "filename": "left_cover.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -312,8 +312,8 @@
     "legacy_lib_list": [],
     "top_level_sheets": [
       {
-        "filename": "left_base.kicad_sch",
-        "name": "left_base",
+        "filename": "left_cover.kicad_sch",
+        "name": "left_cover",
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ]
