@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "marbastlib-choc") (type "KiCad") (uri "/Users/rcliang/workspace/keyboardA/marbastlib-choc.pretty") (options "") (descr ""))
+)

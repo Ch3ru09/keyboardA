@@ -854,17 +854,6 @@
 			(uuid "178be4a1-c2cf-4167-a0dc-4b08dba36424")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -1655,17 +1644,6 @@
 			(uuid "f5e75fcc-7ac4-4499-ba57-a7b6489210dc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -3540,17 +3518,6 @@
 			(uuid "2c29c820-eeb8-42e6-8028-53148c6120a9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -4341,17 +4308,6 @@
 			(uuid "9e66e40f-161d-44d6-9ac5-a8720113002d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -5551,17 +5507,6 @@
 			(uuid "b37d0844-f89b-4d7e-b9b5-8c0202a4da3b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -7731,17 +7676,6 @@
 			(uuid "b8fe1f08-c7a2-417c-a4a1-e4f36fa76ac1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -8532,17 +8466,6 @@
 			(uuid "b88ae683-6273-4273-9e2b-93e82a44c694")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -8688,7 +8611,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015685 -5.890686)
+			(mid 7.015684 -5.890686)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.12)
@@ -9009,7 +8932,7 @@
 		)
 		(fp_arc
 			(start 6.45 -6.125)
-			(mid 7.015685 -5.890686)
+			(mid 7.015684 -5.890686)
 			(end 7.25 -5.325)
 			(stroke
 				(width 0.05)
@@ -9337,17 +9260,6 @@
 			(uuid "6dabf259-abbf-4ec3-8ca6-e372ab6ea14e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -10138,17 +10050,6 @@
 			(uuid "5542be5f-6caf-4194-982c-f9bbb4fa3850")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -11103,17 +11004,6 @@
 			(uuid "e1913284-d4cc-4a64-99a8-a3e3410559a3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -12685,17 +12575,6 @@
 			(uuid "1b176c6d-841f-4382-9cfa-f4ea6cb79e0d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -13486,17 +13365,6 @@
 			(uuid "a3970505-72a0-4504-b7c4-138c37c0c724")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -16598,17 +16466,6 @@
 			(uuid "0b214dff-b801-4405-b979-da451edd5a91")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -17848,17 +17705,6 @@
 			(uuid "2af68450-b916-4dc4-b3fc-537d5189951d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -20755,17 +20601,6 @@
 			(uuid "2aea4134-e192-4241-a283-e67f8b5eddad")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -21720,17 +21555,6 @@
 			(uuid "ed8a79d4-16af-4645-bd82-139d02545984")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
@@ -24307,17 +24131,6 @@
 			(uuid "fdd6f3c2-6ae9-48cd-9691-8e4e177819a4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
-			(offset
-				(xyz -5 -3.75 0.12)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 90 -0 180)
-			)
-		)
 		(model "/Users/rcliang/workspace/keyboardA/3d models/SW_Kailh_Choc_V1.stp"
 			(offset
 				(xyz 0 0 -1.5)
