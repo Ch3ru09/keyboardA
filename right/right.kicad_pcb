@@ -24476,7 +24476,7 @@
 	)
 	(gr_circle
 		(center 99.4 76)
-		(end 101.4 76)
+		(end 100.7 76)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -24487,7 +24487,7 @@
 	)
 	(gr_circle
 		(center 103.04 115.25)
-		(end 105.04 115.25)
+		(end 104.34 115.25)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -24593,7 +24593,7 @@
 	)
 	(gr_circle
 		(center 137 76)
-		(end 139 76)
+		(end 138.3 76)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -24667,7 +24667,7 @@
 	)
 	(gr_circle
 		(center 156.1 107.5)
-		(end 158.1 107.5)
+		(end 157.4 107.5)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -24678,7 +24678,7 @@
 	)
 	(gr_circle
 		(center 156.2 88.5)
-		(end 158.2 88.5)
+		(end 157.5 88.5)
 		(stroke
 			(width 0.05)
 			(type solid)
