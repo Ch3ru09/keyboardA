@@ -1,0 +1,2815 @@
+(kicad_pcb
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(general
+		(thickness 1.6)
+		(legacy_teardrops no)
+	)
+	(paper "A4")
+	(layers
+		(0 "F.Cu" signal)
+		(2 "B.Cu" signal)
+		(9 "F.Adhes" user "F.Adhesive")
+		(11 "B.Adhes" user "B.Adhesive")
+		(13 "F.Paste" user)
+		(15 "B.Paste" user)
+		(5 "F.SilkS" user "F.Silkscreen")
+		(7 "B.SilkS" user "B.Silkscreen")
+		(1 "F.Mask" user)
+		(3 "B.Mask" user)
+		(17 "Dwgs.User" user "User.Drawings")
+		(19 "Cmts.User" user "User.Comments")
+		(21 "Eco1.User" user "User.Eco1")
+		(23 "Eco2.User" user "User.Eco2")
+		(25 "Edge.Cuts" user)
+		(27 "Margin" user)
+		(31 "F.CrtYd" user "F.Courtyard")
+		(29 "B.CrtYd" user "B.Courtyard")
+		(35 "F.Fab" user)
+		(33 "B.Fab" user)
+		(39 "User.1" user)
+		(41 "User.2" user)
+		(43 "User.3" user)
+		(45 "User.4" user)
+	)
+	(setup
+		(pad_to_mask_clearance 0)
+		(allow_soldermask_bridges_in_footprints no)
+		(tenting
+			(front yes)
+			(back yes)
+		)
+		(covering
+			(front no)
+			(back no)
+		)
+		(plugging
+			(front no)
+			(back no)
+		)
+		(capping no)
+		(filling no)
+		(pcbplotparams
+			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
+			(disableapertmacros no)
+			(usegerberextensions no)
+			(usegerberattributes yes)
+			(usegerberadvancedattributes yes)
+			(creategerberjobfile yes)
+			(dashed_line_dash_ratio 12)
+			(dashed_line_gap_ratio 3)
+			(svgprecision 4)
+			(plotframeref no)
+			(mode 1)
+			(useauxorigin no)
+			(pdf_front_fp_property_popups yes)
+			(pdf_back_fp_property_popups yes)
+			(pdf_metadata yes)
+			(pdf_single_document no)
+			(dxfpolygonmode yes)
+			(dxfimperialunits yes)
+			(dxfusepcbnewfont yes)
+			(psnegative no)
+			(psa4output no)
+			(plot_black_and_white yes)
+			(sketchpadsonfab no)
+			(plotpadnumbers no)
+			(hidednponfab no)
+			(sketchdnponfab yes)
+			(crossoutdnponfab yes)
+			(subtractmaskfromsilk no)
+			(outputformat 1)
+			(mirror no)
+			(drillshape 1)
+			(scaleselection 1)
+			(outputdirectory "")
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "1267b88f-3bfd-4452-92e4-3aac32e5476e")
+		(at 188.533852 81.906704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY5"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "94ec453b-5c45-4477-bd99-5b934002c38c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f638b00-5778-4829-960b-e461cb7e8319")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "128147e2-2f39-4dd3-a197-6d6f12ded8ef")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4458bfe2-a554-445f-be12-07219ec29560")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "82b6999a-08c9-4e5f-9fda-653ef2338fab")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "99716aeb-9d4b-4f26-bde3-e47cd24874d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "9a98e815-9e23-4878-9899-b82b61f323be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "4b77dc38-ceda-4d71-8ef7-bc73a6af0c4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "38b14c98-4da9-4efd-8aa7-4598a06b8f9c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "2eef714d-6f72-463f-8aeb-7be00e83acad")
+		(at 131.533852 69.333704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY2"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "cc129110-ffcc-4d09-b954-38e3e60d58e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9792f046-85c2-4515-8c89-37f57c21106f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "86ec4e33-0748-42d9-8b25-8b7c416e80f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "891818f5-93bc-4fe6-8f67-ab80e181aff6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "b94bddcc-0926-4408-87fe-14053ac1e391")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "2d48c0b2-d7bb-4fcf-9259-e7c4febb7b77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "1811723d-b432-4dac-91d7-cd951f71a24b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "5d7034dc-c500-4875-93b2-ae23530bfbe9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "bf63aff3-e2b3-467c-841e-fad29c713f97")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "31c4c686-99e5-4ab6-a583-c0f3b8f392a3")
+		(at 131.533852 88.383704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY7"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "577c078d-7966-4598-8290-4989bb2f842d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a684c1a5-61f3-4ffc-888c-73dccdd2da25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7dbc635b-f556-44c4-ae08-8bfcbb875284")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0c75726-18be-49cb-a597-1fd4231dbd00")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "6bebb34a-7f6d-4245-aac7-635edeafdde0")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "1e0635c9-d130-4db2-951e-26a99d91d9e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "ccfefae4-cd7c-40f9-aedf-79bb85cbe5a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "b11ca856-a856-4b09-86a7-6b70cde3fc0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "cc77f5d1-ca4a-47df-a0d3-7fa42b8473ba")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "4bb10e3f-2594-4509-9dab-c774a43cf745")
+		(at 115.952861 131.915403 -170)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY17"
+			(at 5 -7.4 10)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "fe9b5916-1370-45fe-91fd-6bc586d1ebc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 10)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "96e5761e-d21a-4926-ac6f-63a188dd3096")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 10)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e45f5a6f-cf80-4a4e-a24c-81f67cfc50c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 10)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "62fb7645-562a-4ec2-acc3-41b68c25ae41")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "777df5eb-2683-4068-adf0-5cd4b703c01b")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 10)
+			(layer "Dwgs.User")
+			(uuid "7476eddb-2d08-49a4-8ced-e049c32075f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.699999 10)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "d4a13c59-3aa2-4c8d-8a87-6555d39d501d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 10)
+			(layer "Eco1.User")
+			(uuid "23286146-b6ba-421b-9219-b0fbbcee07dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 10)
+			(layer "B.Fab")
+			(uuid "dcdc6338-da8d-4199-9a07-205c56d71c42")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "4f015d8d-2ff5-43bd-addb-acfbb75021cf")
+		(at 169.533852 107.433704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY14"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "fde659c9-b844-4427-8f75-cd2c783ec2b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0869299b-a98f-4811-b706-d24f1fc89d79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "737a2a8e-346a-46b4-b5b5-a6598c3d725e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b3b92fb4-be10-4129-aac4-06bdd85bf361")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "42c5bfe8-a2cc-479e-b805-a37bf56a554f")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "6a3e11cd-5c40-489c-8cdf-bdec9262f150")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "6e5cb108-4eb9-4854-92b2-42c62923f8d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "beeacd1f-6441-4968-96ec-0b4d0adc01a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "4f36465e-06c0-4395-84a5-0243a8c54ddf")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "516b5ac0-ac0f-41ed-81c7-f358154bb963")
+		(at 112.533852 110.291204 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY11"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "d22f0a65-e338-4075-86f4-ee9b2ac746d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "de068a30-1d3e-4b84-bc6e-b93385957037")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f067e6d8-e9f9-47ff-a616-aaef7e22e663")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c9ba640-b30c-4cdb-8472-3fa279ed8ec7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "89efeb82-4fe4-48cf-885c-614f1425fd0d")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "725b07ca-0b31-4058-a0c9-0068c7158a66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "1839602b-e915-4fa2-9c31-407ff1ba5394")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "57711d55-40a7-475e-abdb-f114536ce04b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "8281ea99-b2f8-4966-9a3c-8f6ee225b53b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "69ce0e56-1a28-401a-938a-79e00f22b78c")
+		(at 150.533852 83.621204 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY8"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "9b3a6ec7-6a59-41d8-8545-f6798dd25c6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1734d825-5baa-43d7-a81a-ba086267d940")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5b401329-53cb-4ea3-ba9e-d6cf5ecdde80")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b852eb58-ddb8-4a9b-b26d-6d1878671c9b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "3472b9df-b699-467f-97cd-1cd5181503c6")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "5ea5b46d-607c-4f72-9f0b-d4c328f4dd5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "2e65e303-be2a-44dd-a801-c8f5e48e8f74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "8bbffc71-86f1-4a67-b0a7-a66e1ba78d00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "c685afc9-b69a-49ab-bd4b-164aa871d4b4")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "7e1d06da-4af6-4071-ac27-2d4972726805")
+		(at 112.533852 91.241204 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY6"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "0de3af82-5d80-44c2-8058-e009c9158f4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7d90f8d7-a950-4d9d-8561-6b1c3a5b9d67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eaf0dea5-5496-4bc2-a0a9-26d64ac818d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3e7a94d3-d21d-49a0-87f1-26d8f923271a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "9655b6cb-186d-416e-8b43-50c9d5da7451")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "a32f51eb-6738-4d78-bea8-90913225f1ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "0f2d9b33-b101-43cd-9474-8e5567351b0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "928553a1-7e0e-44ce-90df-21706bf93b23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "d69db65b-00b9-4ae5-bda7-a7e49cf7b936")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "8c16468e-089d-483b-a8ca-7b712b378f4a")
+		(at 131.533852 107.433704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY12"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "07154f0f-6a03-48ce-aabe-b20f1dcf71b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "27694b21-bfe6-43f1-a3b9-98e5b7740bf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "62748ed7-86b4-4797-b242-e9475ff2bb2b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "19a6c481-e2a4-4ab6-a25a-afc67ae0f462")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "88ac9cee-ce75-4028-b949-2e4b62b55df8")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "0c065d1f-03c6-45a0-974c-72a35c2a36f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "d706ff97-8ba2-4163-89a4-164abab8111c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "a323f912-f8bb-4be8-b626-c2f55237a4af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "b886e58f-dff4-4985-9cce-22bf6d2c9bfd")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "9cdbb68d-b262-4a3a-8fc6-e7c112d171bf")
+		(at 188.533852 120.006704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY15"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "25bdf2e8-5966-42fc-adf9-df107a47016b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8221d4fe-e1ca-4f16-9f02-d0860ad632b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8e0b89ff-d032-49e3-b492-511d882a1f1c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "487c61c3-c904-4209-bf03-6c6f6bc43e62")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "b84a8f9a-9b57-4590-a21a-92b9857546a3")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "22c11303-5efb-473a-9fb8-a1954a012da4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "aed9fbb1-7a04-427c-a36c-9125f0d9600e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "bcbcc226-094a-42b2-8044-3a4e6c42afbd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "1558e48d-3ac3-4adf-b5aa-19950d934892")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "a02a0aa6-a8e6-49d3-811b-598c6362490b")
+		(at 150.533852 64.571204 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY3"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "29b94e7f-8b63-4013-bf8e-df333a384479")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a435fda2-aa4a-4ef0-b5a7-b91ea741a12e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c7740f6-d4b0-4a84-ab94-d3a019cee442")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "08623e80-3067-4115-aa23-8568e9ecd028")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "179edd7b-e108-4e11-86e9-e3802aaa3a41")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "78dcbe8a-897b-464e-aefe-8ccd363efbc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "e53cacf5-c978-42f4-be92-6342fab3646b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "d5bf4923-3041-48a3-af8e-e1bb536736b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "4125823f-f61e-487b-a33c-ca673dad0a26")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "b1e527e2-f1ab-486b-ae96-eec550dfb72f")
+		(at 150.533852 102.671204 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY13"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "23726024-6b58-437c-9777-4c00c9db561a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4cac00e0-35a6-4408-ae76-32c69dcef71e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8d557066-3f59-48b6-9073-7b2ca48e41fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c67c3fb5-14b8-4525-bf74-e737ff4c8b7a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "73e977c4-5fc0-4097-97ab-163d794d523f")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "07c86c6f-06d7-41cc-9d92-9b41d30b9683")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "0753849f-bc47-4756-a98e-c406cfa9918d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "9a191677-13c4-48f2-9d08-14fb29545d24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "277a140a-3750-470a-a3fd-167bd89eac04")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "cce17b44-b5ee-420b-af4d-2c8f6a999b36")
+		(at 169.533852 69.333704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY4"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "48d3bc35-3f50-434d-b988-8a03704d6771")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4304ef16-024f-41e7-b032-9fc04446755b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b7fab1e3-4618-4b55-a0ae-906aca40c08a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "202fef41-1d16-45e1-b247-fd8ea1274e60")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "b4ae204d-1d08-4643-aa0a-1d3a6939e1ea")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "85cd3eb6-856f-42d7-8ff1-585c5efd3e28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "fbf2aef5-ffa1-46e0-9241-0a1871525181")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "36b3474f-daf6-4fc3-868b-9023f423627e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "4a9c9745-0651-4f0c-bfdd-f666a8155f2a")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "d1a60721-933c-4e00-a4b7-7d7cd89cd4b7")
+		(at 188.533852 100.956704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY10"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "3e66e6ce-b186-4785-91d1-9256f10c7dbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8625d5e3-82b2-4871-85e4-c0993b1f89a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d823ff94-941b-4290-b622-25b345123dff")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "82527b78-1447-4a30-af60-763597459436")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "c32fda1f-4975-4628-83fa-69f965167e84")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "0469fb23-637c-452f-8b6e-35251cecbcda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "8e12e950-1dea-42c1-8ec2-3c1d520b7f4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "27338921-ddd3-4466-a58e-c508a42d1274")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "4c9e973d-225d-42a9-95fa-9c9b911ef855")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "e6f906d0-830d-4986-8b52-65cfeedeccc0")
+		(at 95.568545 138.342553 -155)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY16"
+			(at 5 -7.4 25)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "e958e8b1-d091-4456-ad11-37fe1ab5d622")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 25)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eb560486-dd37-4573-87c7-8f9faf366bac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 25)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3a4705da-8749-4f56-8e8f-89052a85697a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 25)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "210df506-8bb3-4a47-835b-c26c52f1d897")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "ed97243b-821e-438d-8ded-25fc4607b814")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 25)
+			(layer "Dwgs.User")
+			(uuid "b43e930f-ab34-4775-ac79-a50a9facb2d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 25)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "b2b18724-a39b-4570-8db4-80d29b19b2fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 25)
+			(layer "Eco1.User")
+			(uuid "3880002e-e920-46b1-bd38-70467b2661af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 25)
+			(layer "B.Fab")
+			(uuid "b74ade08-1625-4b3c-b1e9-4e2119704259")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "ea159009-4408-4940-8b25-a3d220f96f9e")
+		(at 112.533852 72.191204 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY1"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "b92391f2-2c98-4d87-aaad-e5883bda5bbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9382890-6c34-43e3-a9b1-9789a7521dbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2c08c57d-d691-471d-8f2b-169c1624cdd5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5517d60a-35ad-4cb6-ad9d-9cef0b9020de")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "92594fd6-6195-435b-88fd-3ceba04638ef")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "d347e938-e674-4239-afbc-3c193293efb0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "a7510953-83d7-423c-9a82-d95a4802fc26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "412f708c-b37c-4980-94f6-59562dac00e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "db12317e-5d0b-4e01-aca2-4c486916292b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(footprint "cuts:SW_choc_v1_HS_CPG135001S30_1u"
+		(layer "B.Cu")
+		(uuid "fd20e5c7-2f10-4aaa-8626-5f11ba24c3b8")
+		(at 169.533852 88.383704 180)
+		(descr "Hotswap footprint for Kailh Choc style switches")
+		(property "Reference" "KEY9"
+			(at 5 -7.4 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "817ca879-88eb-4acb-9020-f6dd55afd517")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Choc-Keyswitch"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "04e9fc32-3373-4b80-9fa6-8a7df78aada7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "020bd43f-3839-40f9-b091-a20fbc9f0b9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f2885f70-abe1-4848-8166-8efe774d8c42")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(sheetname "/Switch Matrix/")
+		(sheetfile "matrix.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_poly
+			(pts
+				(xy 7 7) (xy -7 7) (xy -7 -7) (xy 7 -7)
+			)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "392e1241-1653-44f1-8880-11bbebc9f855")
+		)
+		(fp_text user "18x17 spacing"
+			(at 0 7.6 0)
+			(layer "Dwgs.User")
+			(uuid "3b5caad3-6e83-476e-abfd-c9f8ea4385dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "LED"
+			(at 0 4.7 0)
+			(unlocked yes)
+			(layer "Cmts.User")
+			(uuid "0ec20425-a5b4-4a4e-8f0f-0708f786ada4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "19.05 spacing"
+			(at 0 8.7 0)
+			(layer "Eco1.User")
+			(uuid "b5690592-5899-48e5-a5ff-dfa2027c71da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 2.496 -5.025 0)
+			(layer "B.Fab")
+			(uuid "79000db3-4f4a-456e-97fb-6dce901986b0")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.12)
+				)
+				(justify mirror)
+			)
+		)
+		(embedded_fonts no)
+		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
+			(offset
+				(xyz -5 -3.75 0.12)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 180)
+			)
+		)
+	)
+	(gr_arc
+		(start 81.316373 134.407224)
+		(mid 81.286286 133.638932)
+		(end 81.810421 133.076384)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bd7b437c-ca53-4ee1-96a2-18495b58ab59")
+	)
+	(gr_line
+		(start 81.810421 133.076384)
+		(end 95.506245 126.859201)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e675b4ba-c6df-4132-b262-8c3d3d529d86")
+	)
+	(gr_line
+		(start 89.26359 151.565988)
+		(end 81.316373 134.407224)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a5a5d6cf-1d72-49ed-94dc-1d8203e15809")
+	)
+	(gr_arc
+		(start 90.610459 152.043976)
+		(mid 89.836538 152.088127)
+		(end 89.26359 151.565988)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "537f3258-8c78-4217-b66d-5db4c781ff66")
+	)
+	(gr_arc
+		(start 96.092893 67.307107)
+		(mid 96.169009 66.924421)
+		(end 96.385786 66.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bbd6579c-c015-4f6a-b907-5a1bf1cdea04")
+	)
+	(gr_arc
+		(start 96.092893 125.948629)
+		(mid 95.933519 126.490208)
+		(end 95.506245 126.859201)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "53105188-cdf9-4d43-8400-6707716f55bb")
+	)
+	(gr_line
+		(start 96.092893 125.948629)
+		(end 96.092893 67.307107)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2b5a758f-5ef0-45cb-a229-f1eea5f1a244")
+	)
+	(gr_line
+		(start 100.8 62.185786)
+		(end 96.385786 66.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "344653da-d041-49ba-b2c1-cc4f43aa3b41")
+	)
+	(gr_arc
+		(start 100.8 62.185786)
+		(mid 101.124423 61.969013)
+		(end 101.507107 61.892893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5ee0b834-b504-497d-8bc2-f448ff1e86cb")
+	)
+	(gr_line
+		(start 101.507107 61.892893)
+		(end 120.192893 61.892893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0fb0701e-394b-45fa-9ab3-8e91034d60c0")
+	)
+	(gr_line
+		(start 108.167674 143.454156)
+		(end 90.610459 152.043976)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8e28bc59-3708-4238-a092-ee96742d7cc6")
+	)
+	(gr_arc
+		(start 108.167674 143.454156)
+		(mid 108.2959 143.402075)
+		(end 108.430092 143.368212)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7dcc4072-13d1-40c9-a840-2ef651f7fc3d")
+	)
+	(gr_arc
+		(start 121.192893 60.092893)
+		(mid 121.485786 59.385786)
+		(end 122.192893 59.092893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bb02f9f9-f374-48d0-be59-4c67fd354f1f")
+	)
+	(gr_arc
+		(start 121.192893 60.892893)
+		(mid 120.9 61.6)
+		(end 120.192893 61.892893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d2c74492-8cdb-4337-987f-59acb0715c8f")
+	)
+	(gr_line
+		(start 121.192893 60.892893)
+		(end 121.192893 60.092893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fd262f73-2775-40f9-ac12-8b3bca61b99e")
+	)
+	(gr_line
+		(start 122.192893 59.092893)
+		(end 139.292893 59.092893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6f46107d-55b2-4270-af6a-5285376f294b")
+	)
+	(gr_circle
+		(center 122.592893 78.892893)
+		(end 124.592893 78.892893)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "21687e37-b0a9-4622-b206-00b81bb7b3d9")
+	)
+	(gr_circle
+		(center 126.232893 118.142893)
+		(end 128.232893 118.142893)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "1227b8f5-392c-449c-abfd-1d52437cb14b")
+	)
+	(gr_line
+		(start 126.746044 140.073279)
+		(end 108.430092 143.368212)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "952bee49-5734-4866-8877-b0b55c48a5ec")
+	)
+	(gr_arc
+		(start 127.426485 139.603573)
+		(mid 127.137082 139.912043)
+		(end 126.746044 140.073279)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "debb0430-dab4-4561-bfb9-c4a69327d363")
+	)
+	(gr_line
+		(start 133.50159 129.478397)
+		(end 127.426485 139.603573)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c0ebb891-afdc-49fd-a621-bd1b66979927")
+	)
+	(gr_arc
+		(start 133.50159 129.478397)
+		(mid 133.866384 129.122693)
+		(end 134.359083 128.992893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "afd29cf0-ef75-479b-810f-369ab7d42e96")
+	)
+	(gr_arc
+		(start 140.292893 55.292893)
+		(mid 140.585786 54.585786)
+		(end 141.292893 54.292893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ca17b430-3b4d-4655-b872-b20d5603893a")
+	)
+	(gr_arc
+		(start 140.292893 58.092893)
+		(mid 140 58.8)
+		(end 139.292893 59.092893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8dcd88a8-d505-4b65-afd9-4ed9c155d200")
+	)
+	(gr_line
+		(start 140.292893 58.092893)
+		(end 140.292893 55.292893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "631e9734-05c1-4c01-bbc9-80a81146c2e2")
+	)
+	(gr_line
+		(start 141.292893 54.292893)
+		(end 159.792893 54.292893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "be9d7a7c-f0d0-4f71-8116-b8c11bd22377")
+	)
+	(gr_arc
+		(start 159.792893 54.292893)
+		(mid 160.5 54.585786)
+		(end 160.792893 55.292893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "de4f3160-cc6d-457a-a4c1-45ef1cf43a60")
+	)
+	(gr_circle
+		(center 160.192893 78.892893)
+		(end 162.192893 78.892893)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "c3befd8a-2306-4eb9-8936-27a2b62973b4")
+	)
+	(gr_line
+		(start 160.792893 55.292893)
+		(end 160.792893 58.092893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2184e53b-6cbd-4b41-90b6-f9df4907856c")
+	)
+	(gr_arc
+		(start 161.792893 59.092893)
+		(mid 161.085786 58.8)
+		(end 160.792893 58.092893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0971cf62-8a57-475d-9b2d-8fc7a93c9f7e")
+	)
+	(gr_line
+		(start 161.792893 59.092893)
+		(end 179.493443 59.092893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "28192523-082f-4796-bf09-9f590f96125e")
+	)
+	(gr_line
+		(start 177.292893 128.992893)
+		(end 134.359083 128.992893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6bcabc95-073d-4889-8704-663a6830a43d")
+	)
+	(gr_arc
+		(start 177.292893 128.992893)
+		(mid 178 129.285786)
+		(end 178.292893 129.992893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c651364b-25b7-4602-8add-531737ba5a01")
+	)
+	(gr_arc
+		(start 178.592893 130.292893)
+		(mid 178.380761 130.205025)
+		(end 178.292893 129.992893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1a8061f9-208f-41fa-b40a-b7bbad5f9408")
+	)
+	(gr_circle
+		(center 179.292893 110.392893)
+		(end 181.292893 110.392893)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "26e17192-3ebc-4c02-9dac-8d6ee5bdbcde")
+	)
+	(gr_circle
+		(center 179.392893 91.392893)
+		(end 181.392893 91.392893)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "292370ef-2c59-40b5-b312-6ad0a4e5d663")
+	)
+	(gr_arc
+		(start 179.493443 59.092893)
+		(mid 179.780308 59.134922)
+		(end 180.043059 59.257476)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "75f48b79-9d94-458f-8d92-fa9ca59ead84")
+	)
+	(gr_line
+		(start 180.043059 59.257476)
+		(end 198.342509 71.296588)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "52280562-9c51-4cff-84ab-058483ff4560")
+	)
+	(gr_line
+		(start 197.792893 130.292893)
+		(end 178.592893 130.292893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "57b18d22-c020-447a-90c5-801b089c0b56")
+	)
+	(gr_arc
+		(start 198.342509 71.296588)
+		(mid 198.67312 71.657462)
+		(end 198.792893 72.132005)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "18a954b5-6e84-4219-b049-dc9e056cd467")
+	)
+	(gr_line
+		(start 198.792893 72.132005)
+		(end 198.792893 129.292893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "70134ef2-6682-4c46-884f-302b197fafa7")
+	)
+	(gr_arc
+		(start 198.792893 129.292893)
+		(mid 198.5 130)
+		(end 197.792893 130.292893)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f784f0f6-6bda-4d6f-833b-cb12dfd58045")
+	)
+	(gr_text "{dblquote}You'd be able to if you were black{dblquote}"
+		(at 99.132893 68.002893 270)
+		(layer "F.SilkS")
+		(uuid "235f86f7-470d-4a70-957e-b93891aae511")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Flashing"
+		(at 162.775097 128.675563 -0)
+		(layer "B.SilkS")
+		(uuid "512e0709-75b6-4bbf-95a1-30317d567b32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Normal"
+		(at 172.875097 128.775563 -0)
+		(layer "B.SilkS")
+		(uuid "39ca5302-0de1-494c-b042-e0a4063c84a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(embedded_fonts no)
+)
